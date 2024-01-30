@@ -1,4 +1,4 @@
-# C64 Projects from Coronax's Project Blog
+# C64 Projects from CJ's Project Blog
 
 This repository contains several small programs that were created for early entries on the [Project Blog].  Most of the C64 assembly files are written for [CBM prg Studio].
 
